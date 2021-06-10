@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diandianti
 - 👀 I’m interested in C Python and Rust
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning Js Rust
 - 📫 irabutong@gmail.com
 
 <!---
