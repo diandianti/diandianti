@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diandianti
 - 👀 I’m interested in C Python and Rust
 - 🌱 I’m currently learning Js Rust
-- 📫 dian@duck.com
+- 📫 syslog@z.org
 
 <!---
 diandianti/diandianti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
